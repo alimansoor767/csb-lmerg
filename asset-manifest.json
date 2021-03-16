@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://alimansoor767.github.io/csb-lmerg/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://alimansoor767.github.io/csb-lmerg/static/js/main.c2c1dff9.chunk.js",
+    "main.js.map": "https://alimansoor767.github.io/csb-lmerg/static/js/main.c2c1dff9.chunk.js.map",
+    "runtime-main.js": "https://alimansoor767.github.io/csb-lmerg/static/js/runtime-main.acfe4e9e.js",
+    "runtime-main.js.map": "https://alimansoor767.github.io/csb-lmerg/static/js/runtime-main.acfe4e9e.js.map",
+    "static/js/2.a6ee0518.chunk.js": "https://alimansoor767.github.io/csb-lmerg/static/js/2.a6ee0518.chunk.js",
+    "static/js/2.a6ee0518.chunk.js.map": "https://alimansoor767.github.io/csb-lmerg/static/js/2.a6ee0518.chunk.js.map",
+    "index.html": "https://alimansoor767.github.io/csb-lmerg/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://alimansoor767.github.io/csb-lmerg/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a6ee0518.chunk.js.LICENSE.txt": "https://alimansoor767.github.io/csb-lmerg/static/js/2.a6ee0518.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acfe4e9e.js",
+    "static/js/2.a6ee0518.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.c2c1dff9.chunk.js"
+  ]
+}
